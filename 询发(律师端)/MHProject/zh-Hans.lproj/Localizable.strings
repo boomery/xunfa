@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MHProject
+
+  Created by ZhangChaoxin on 15/7/30.
+  Copyright (c) 2015年 Andy. All rights reserved.
+*/
+"loading" = "加载中...";
+
+"亲，网络通讯异常" = "亲，网络通讯异常";
+
+"举报成功" = "举报成功";
+"收藏成功" = "收藏成功";
+"取消收藏" = "取消收藏";
+"清理成功" = "清理成功";
+
+"亲，暂无消息" = "亲，暂无消息";
